@@ -22,5 +22,10 @@ namespace WorkGit
             Random rnd = new Random();
             label1.Text = $" {rnd.Next()}";
         }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -8,3 +8,13 @@ C:\Users\328-8\Desktop\menshikov p32\WorkGit\obj\Debug\WorkGit.csproj.GenerateRe
 C:\Users\328-8\Desktop\menshikov p32\WorkGit\obj\Debug\WorkGit.csproj.CoreCompileInputs.cache
 C:\Users\328-8\Desktop\menshikov p32\WorkGit\obj\Debug\WorkGit.exe
 C:\Users\328-8\Desktop\menshikov p32\WorkGit\obj\Debug\WorkGit.pdb
+C:\Users\328-7\Source\Repos\WorkGit\WorkGit\bin\Debug\WorkGit.exe.config
+C:\Users\328-7\Source\Repos\WorkGit\WorkGit\bin\Debug\WorkGit.exe
+C:\Users\328-7\Source\Repos\WorkGit\WorkGit\bin\Debug\WorkGit.pdb
+C:\Users\328-7\Source\Repos\WorkGit\WorkGit\obj\Debug\WorkGit.csproj.AssemblyReference.cache
+C:\Users\328-7\Source\Repos\WorkGit\WorkGit\obj\Debug\WorkGit.Form1.resources
+C:\Users\328-7\Source\Repos\WorkGit\WorkGit\obj\Debug\WorkGit.Properties.Resources.resources
+C:\Users\328-7\Source\Repos\WorkGit\WorkGit\obj\Debug\WorkGit.csproj.GenerateResource.cache
+C:\Users\328-7\Source\Repos\WorkGit\WorkGit\obj\Debug\WorkGit.csproj.CoreCompileInputs.cache
+C:\Users\328-7\Source\Repos\WorkGit\WorkGit\obj\Debug\WorkGit.exe
+C:\Users\328-7\Source\Repos\WorkGit\WorkGit\obj\Debug\WorkGit.pdb
