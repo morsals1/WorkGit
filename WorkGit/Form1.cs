@@ -19,6 +19,8 @@ namespace WorkGit
 
         private void button1_Click(object sender, EventArgs e)
         {
+            Random rnd = new Random();
+            label1.Text = $" {rnd.Next()}";
         }
     }
 }
